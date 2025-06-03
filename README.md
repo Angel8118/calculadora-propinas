@@ -1,53 +1,53 @@
-# 💰 Calculadora de Propinas
+# 💰 Tip Calculator
 
-Aplicación web desarrollada con **React**, **TypeScript**, **Vite** y **Tailwind CSS** que permite calcular propinas de forma sencilla y rápida. Este proyecto fue una oportunidad para profundizar en el manejo de componentes, custom hooks y estilos utilitarios.
+A web application built with **React**, **TypeScript**, **Vite**, and **Tailwind CSS** that allows users to calculate tips quickly and easily. This project was a great opportunity to deepen my understanding of component management, custom hooks, and utility-first styling.
 
-## ✨ Características
+## ✨ Features
 
-- 📋 **Menú interactivo**: Agrega o elimina elementos del pedido fácilmente.
-- 💰 **Cálculo de propinas**: Selecciona entre porcentajes predefinidos (10%, 20%, 50%) para calcular la propina.
-- 🧮 **Resumen de pedido**: Visualiza el subtotal, la propina y el total a pagar.
-- ♻️ **Reinicio de pedido**: Opción para reiniciar el pedido y la selección de propina.
+- 📋 **Interactive Menu**: Easily add or remove items from your order.
+- 💰 **Tip Calculation**: Choose from predefined percentages (10%, 20%, 50%) to calculate the tip.
+- 🧮 **Order Summary**: View the subtotal, tip, and total amount to pay.
+- ♻️ **Reset Order**: Option to clear the order and tip selection.
 
-## 🚀 Tecnologías Utilizadas
+## 🚀 Technologies Used
 
-- ⚛️ [React](https://reactjs.org/): Biblioteca para construir interfaces de usuario.
-- 🧑‍💻 [TypeScript](https://www.typescriptlang.org/): Superset de JavaScript que añade tipado estático.
-- ⚡ [Vite](https://vitejs.dev/): Herramienta de desarrollo rápida para proyectos en React y TypeScript.
-- 🎨 [Tailwind CSS](https://tailwindcss.com/): Framework de CSS para estilos rápidos y responsivos.
+- ⚛️ [React](https://reactjs.org/): Library for building user interfaces.
+- 🧑‍💻 [TypeScript](https://www.typescriptlang.org/): Superset of JavaScript that adds static typing.
+- ⚡ [Vite](https://vitejs.dev/): Fast build tool for React and TypeScript projects.
+- 🎨 [Tailwind CSS](https://tailwindcss.com/): Utility-first CSS framework for rapid UI development.
 
-## 📦 Instalación
+## 📦 Installation
 
-Sigue estos pasos para ejecutar el proyecto en tu máquina local:
+Follow these steps to run the project locally:
 
-1. **Clonar el repositorio:**
-
+1. **Clone the repository:**
    git clone https://github.com/Angel8118/calculadora-propinas.git
    cd calculadora-propinas
    
-Instalar las dependencias:
+Install dependencies:
 npm install
 
-Ejecutar el servidor de desarrollo:
+Start the development server:
 npm run dev
 
-Luego, abre tu navegador en http://localhost:5173 para ver la aplicación en funcionamiento.
+Then open your browser at http://localhost:5173 to view the app in action.
 
-## 🧠 Aprendizajes
-Durante el desarrollo de este proyecto, adquirí y reforcé los siguientes conocimientos:
+## 🧠 What I Learned
+During the development of this project, I gained and reinforced the following skills:
 
-Creación y utilización de custom hooks para manejar el estado del pedido y la propina.
+Creating and using custom hooks to manage order and tip state.
 
-Implementación de componentes reutilizables en React.
+Implementing reusable components in React.
 
-Aplicación de Tailwind CSS para estilizar componentes de forma eficiente.
+Applying Tailwind CSS to efficiently style components.
 
-Configuración y uso de Vite para un entorno de desarrollo rápido y moderno.
+Configuring and using Vite for a fast and modern development environment.
 
-## 🤝 Contribuciones
-Las contribuciones son bienvenidas. Si deseas mejorar esta aplicación, no dudes en abrir un issue o enviar un pull request.
+## 🤝 Contributions
+Contributions are welcome! If you'd like to improve this application, feel free to open an issue or submit a pull request.
 
-## 📄 Licencia
-Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
+## 📄 License
+This project is licensed under the MIT License. See the LICENSE file for more information.
 
-## ✨ Da click aqui para abrir el proyecto en el navegador: https://rainbow-torrone-807408.netlify.app/
+## ✨ Click here to open the project in your browser:
+https://rainbow-torrone-807408.netlify.app/
