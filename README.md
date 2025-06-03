@@ -49,3 +49,5 @@ Las contribuciones son bienvenidas. Si deseas mejorar esta aplicación, no dudes
 
 ## 📄 Licencia
 Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
+
+## ✨ Da click aqui para abrir el proyecto en el navegador: https://rainbow-torrone-807408.netlify.app/
