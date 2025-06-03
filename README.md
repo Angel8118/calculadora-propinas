@@ -1,54 +1,51 @@
-# React + TypeScript + Vite
+# 💰 Calculadora de Propinas
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Aplicación web desarrollada con **React**, **TypeScript**, **Vite** y **Tailwind CSS** que permite calcular propinas de forma sencilla y rápida. Este proyecto fue una oportunidad para profundizar en el manejo de componentes, custom hooks y estilos utilitarios.
 
-Currently, two official plugins are available:
+## ✨ Características
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 📋 **Menú interactivo**: Agrega o elimina elementos del pedido fácilmente.
+- 💰 **Cálculo de propinas**: Selecciona entre porcentajes predefinidos (10%, 20%, 50%) para calcular la propina.
+- 🧮 **Resumen de pedido**: Visualiza el subtotal, la propina y el total a pagar.
+- ♻️ **Reinicio de pedido**: Opción para reiniciar el pedido y la selección de propina.
 
-## Expanding the ESLint configuration
+## 🚀 Tecnologías Utilizadas
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+- ⚛️ [React](https://reactjs.org/): Biblioteca para construir interfaces de usuario.
+- 🧑‍💻 [TypeScript](https://www.typescriptlang.org/): Superset de JavaScript que añade tipado estático.
+- ⚡ [Vite](https://vitejs.dev/): Herramienta de desarrollo rápida para proyectos en React y TypeScript.
+- 🎨 [Tailwind CSS](https://tailwindcss.com/): Framework de CSS para estilos rápidos y responsivos.
 
-```js
-export default tseslint.config({
-  extends: [
-    // Remove ...tseslint.configs.recommended and replace with this
-    ...tseslint.configs.recommendedTypeChecked,
-    // Alternatively, use this for stricter rules
-    ...tseslint.configs.strictTypeChecked,
-    // Optionally, add this for stylistic rules
-    ...tseslint.configs.stylisticTypeChecked,
-  ],
-  languageOptions: {
-    // other options...
-    parserOptions: {
-      project: ['./tsconfig.node.json', './tsconfig.app.json'],
-      tsconfigRootDir: import.meta.dirname,
-    },
-  },
-})
-```
+## 📦 Instalación
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
+Sigue estos pasos para ejecutar el proyecto en tu máquina local:
 
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
+1. **Clonar el repositorio:**
 
-export default tseslint.config({
-  plugins: {
-    // Add the react-x and react-dom plugins
-    'react-x': reactX,
-    'react-dom': reactDom,
-  },
-  rules: {
-    // other rules...
-    // Enable its recommended typescript rules
-    ...reactX.configs['recommended-typescript'].rules,
-    ...reactDom.configs.recommended.rules,
-  },
-})
-```
+   git clone https://github.com/Angel8118/calculadora-propinas.git
+   cd calculadora-propinas
+   
+Instalar las dependencias:
+npm install
+
+Ejecutar el servidor de desarrollo:
+npm run dev
+
+Luego, abre tu navegador en http://localhost:5173 para ver la aplicación en funcionamiento.
+
+## 🧠 Aprendizajes
+Durante el desarrollo de este proyecto, adquirí y reforcé los siguientes conocimientos:
+
+Creación y utilización de custom hooks para manejar el estado del pedido y la propina.
+
+Implementación de componentes reutilizables en React.
+
+Aplicación de Tailwind CSS para estilizar componentes de forma eficiente.
+
+Configuración y uso de Vite para un entorno de desarrollo rápido y moderno.
+
+## 🤝 Contribuciones
+Las contribuciones son bienvenidas. Si deseas mejorar esta aplicación, no dudes en abrir un issue o enviar un pull request.
+
+## 📄 Licencia
+Este proyecto está bajo la licencia MIT. Consulta el archivo LICENSE para más información.
