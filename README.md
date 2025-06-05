@@ -50,8 +50,8 @@ Contributions are welcome! If you'd like to improve this application, feel free 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## ✨ Click here to open the project in your browser:
+https://inspiring-kashata-a28ee9.netlify.app/
 
-https://rainbow-torrone-807408.netlify.app/
 
 ## 🖼️ Screenshots
 
@@ -61,6 +61,4 @@ https://rainbow-torrone-807408.netlify.app/
 ### 💰 Tip Selection and Summary
 ![Screenshot 2](./public/screenshots/screenshot2.png)
 
-=======
-https://inspiring-kashata-a28ee9.netlify.app/
 
