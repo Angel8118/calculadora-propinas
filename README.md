@@ -50,4 +50,4 @@ Contributions are welcome! If you'd like to improve this application, feel free 
 This project is licensed under the MIT License. See the LICENSE file for more information.
 
 ## ✨ Click here to open the project in your browser:
-https://rainbow-torrone-807408.netlify.app/
+https://inspiring-kashata-a28ee9.netlify.app/
