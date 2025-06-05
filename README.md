@@ -51,3 +51,12 @@ This project is licensed under the MIT License. See the LICENSE file for more in
 
 ## ✨ Click here to open the project in your browser:
 https://rainbow-torrone-807408.netlify.app/
+
+## 🖼️ Screenshots
+
+### 📋 Menu and Item Selection
+![Screenshot 1](./public/screenshots/screenshot1.png)
+
+### 💰 Tip Selection and Summary
+![Screenshot 2](./public/screenshots/screenshot2.png)
+
